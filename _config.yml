@@ -2,10 +2,10 @@
 title: YouthMappers Bangladesh Summit 2025
 email: summit.ymbd@gmail.com
 description: "YouthMappers Bangladesh Summit 2025. August 22 - 23, 2025 in Patuakhali Science and Technology University, Patuakhali, Bangladesh."
-url: "https://ymbdsummit2025.pstu-youthmappers.github.io" # the base hostname & protocol for your site
+url: "https://ymbdsummit2025.github.io" # the base hostname & protocol for your site
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # twitter_username: state
-github_username:  PSTU-YouthMappers
+github_username: PSTU-YouthMappers
 
 # Build settings
 markdown: kramdown
