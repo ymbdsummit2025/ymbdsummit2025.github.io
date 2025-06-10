@@ -1,0 +1,53 @@
+# Site settings
+title: YouthMappers Bangladesh Summit 2025
+email: summit.ymbd@gmail.com
+description: "YouthMappers Bangladesh Summit 2025. August 22 - 23, 2025 in Patuakhali Science and Technology University, Patuakhali, Bangladesh."
+url: "https://ymbdsummit2025.pstu-youthmappers.github.io" # the base hostname & protocol for your site
+# baseurl: "/" # the subpath of your site, e.g. /blog
+# twitter_username: state
+github_username:  PSTU-YouthMappers
+
+# Build settings
+markdown: kramdown
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: "#33426d" # Dark Blue from YouthMappers 
+  primary-light: "#fc6320" # Orange from YouthMappers 
+  background-light: "#f8f8f8" # Example light background
+  background-dark: '#333333' # Example dark background
+  links: '#fc6320' # Orange for links 
+  links-light: '#33426d' 
+  links-white: '#33426d' 
+  links-dark-hover: '#33426d' # On hover color for links on dark background
+  text: '#fc6320' # General text color
+  text-light: '#fc6320' # Lighter text color
+  text-dark: '#fc6320' # Text color on dark backgrounds
+
+# Settings for map tiles used in leaflet maps
+map_tiles:
+  url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
+  attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+  maxZoom: 19
+
+# Repo files to not include in built site
+exclude:
+  - Dockerfile*
+  - docker-compose.*
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+permalink: /:title/
+relative_permalinks: false
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:title/
+
+plugins:
+  - jekyll-gzip
+  # - jekyll-brotli
