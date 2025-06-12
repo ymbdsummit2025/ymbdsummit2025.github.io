@@ -2,19 +2,27 @@
 layout: page-with-toc
 #title: Venue &amp; Transportation
 title: Venue
-headings: "intro,about_venue,getting-to,campus_navigation,accomodation,contact"
+headings: "notice,intro,about_venue,getting-to,campus_navigation,accomodation,contact"
 ---
 
 <h2 id="intro">Short Description</h2>
 
-Venue: Patuakhali Science and Technology University (PSTU)<br>
-Location: Dumki, Patuakhali, Bangladesh
+Venue: [Patuakhali Science and Technology University (PSTU)](https://en.wikipedia.org/wiki/Patuakhali_Science_and_Technology_University)<br>
+Location: [Dumki](https://en.wikipedia.org/wiki/Dumki_Upazila), [Patuakhali](https://en.wikipedia.org/wiki/Patuakhali), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)
 
-<!-- <h2 class='space-bottom1' id='covid19'>Covid19 regulations</h2>
+<h2 class='space-bottom1' id='notice' style="color: red;">Corona Virus Regulations</h2>
 
-Currently, there are no Covid19 vaccination requirements in place for entering Italy. The use of masks remains mandatory on public transport and in healthcare facilities. Further information can be found on [salute.gov.it](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=english&menu=notizie&p=dalministero&id=5893).
+Currently, there are some advices given by university authority in light of recent development of COVID infections.
 
-We highly recommend that everyone wear masks indoors during the conference. -->
+Advices are to:
+
+- Use Mask to cover your nose and mouth.
+- Don't touch your eyes, nose, and face without washing your hands.
+- Use your arm / tissues / cloths to cover while sneezing.
+
+You can see the notice here at [pstu.ac.bd](https://pstu.ac.bd/notices/emergency-notice-about-covid) and cautionary message from Directorate General of Health Services here at [dghs.gov.bd](https://dghs.gov.bd/site/notices/ecb87f17-df73-4cbe-bd47-919ee554ac36/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%AC-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE).
+
+We highly recommend that everyone wear masks indoors during the conference.
 
 <h2 id="about_venue">About the Venue</h2>
 
@@ -37,27 +45,49 @@ The YouthMappers Bangladesh Summit 2025 will be hosted at Patuakhali Science and
 
 By Road:
 
-- Direct buses from Dhaka’s Sayedabad Terminal to Patuakhali (6–7 hours).
-- From Patuakhali town, local transport (auto-rickshaws/buses) to PSTU (15 mins).
+- Direct buses from Dhaka’s Sayedabad Terminal to Lebukhali (Patuakhali) (6 hours).
+- From Lebukhali, local transport (auto-rickshaws/buses) to PSTU (15 minutes).
 
 By Air + Road:
 
 - Fly from Dhaka to Barisal Airport (50 mins).
-- Take a local transport to Rupatoli Bus Terminal
-- Take a bus to PSTU (2 hours).
+- Reach Barisal City.
+- Follow <u>Barisal to PSTU</u>.
 
 By Waterway (Scenic Route):
 
-- Launch/ferry from Dhaka to Patuakhali (overnight).
+- Launch from Dhaka to Barisal Patuakhali (overnight).
+- Follow <u>Barisal to PSTU</u> or <u>Patuakhali to PSTU</U>.
 
+<h3>From Barisal to PSTU (≈35 km)</h3>
+
+By Bus:
+
+- Take a local transport to Rupatoli Bus Terminal.
+- Take a bus to [Dumki](https://osm.org/go/4VV1LAkd--?m=&relation=14785975) (PSTU) or [University Square](https://osm.org/go/4VVe~QP1I?m=) (also known as Pagla'r Mor) (1-1.5 hours).
+- From [University Square](https://osm.org/go/4VVe~QP1I?m=), local transport (auto-rickshaws/Mahendra) to PSTU (15 minutes).
+
+<h3>From Patuakhali to PSTU (≈15 km)</h3>
+
+By Bus:
+
+- Take a local transport (auto-rickshaws/Rickshaws) to Patuakhali Bus Terminal.
+- Take a bus to [University Square](https://osm.org/go/4VVe~QP1I?m=) (also known as Pagla'r Mor).
+- From [University Square](https://osm.org/go/4VVe~QP1I?m=), local transport (auto-rickshaws/Mahendra) to PSTU (15 minutes).
+
+By Auto-rickshaws:
+
+- Take a local transport to [Chouratha](https://osm.org/go/4VVa0v7Cr?m=&way=280432695) (Patuakhali).
+- Take an auto-rickshaw to PSTU.
 
 <h2 class='space-bottom1' id="campus_navigation">Campus Navigation:</h2>
 
-- View the OSM Campus Map: PSTU on OpenStreetMap.
+- View the OSM Campus Map: [PSTU on OpenStreetMap](https://www.openstreetmap.org/relation/14785975#map=16/22.46418/90.38695).
 - Signage and volunteer guides will direct attendees.
 
 
 <h2 id="accomodation">Accommodation</h2>
+
 <h3>On-Campus (Priority for Attendees):</h3>
 
 - Dormitories: Rooms (3–4 beds) with shared bathrooms.
