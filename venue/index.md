@@ -30,7 +30,8 @@ The YouthMappers Bangladesh Summit 2025 will be hosted at Patuakhali Science and
 
 <h3>Key Facilities:</h3>
 
-- Auditorium: A 250+ capacity main hall for keynote sessions.
+- TSC Conference Room: A 300+ capacity main hall for keynote sessions.
+- Auditorium: A 250+ capacity secondary hall for other sessions.
 - Seminar Halls: 5 well-equipped halls (50+ capacity each) for workshops.
 - Classrooms: 10+ air-conditioned rooms for breakout sessions.
 - Accommodation: On-campus dormitories for 500+ participants (gender-segregated).
