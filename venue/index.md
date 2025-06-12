@@ -41,7 +41,7 @@ The YouthMappers Bangladesh Summit 2025 will be hosted at Patuakhali Science and
 
 <h2 class='space-bottom1' id="getting-to">How to Get There</h2>
 
-<h3>From Dhaka to PSTU (≈320 km):</h3>
+<h3><u>From Dhaka to PSTU (≈320 km)</u>:</h3>
 
 By Road:
 
@@ -59,7 +59,7 @@ By Waterway (Scenic Route):
 - Launch from Dhaka to Barisal Patuakhali (overnight).
 - Follow <u>Barisal to PSTU</u> or <u>Patuakhali to PSTU</U>.
 
-<h3>From Barisal to PSTU (≈35 km)</h3>
+<h3><u>From Barisal to PSTU (≈35 km)</u>:</h3>
 
 By Bus:
 
@@ -67,7 +67,7 @@ By Bus:
 - Take a bus to [Dumki](https://osm.org/go/4VV1LAkd--?m=&relation=14785975) (PSTU) or [University Square](https://osm.org/go/4VVe~QP1I?m=) (also known as Pagla'r Mor) (1-1.5 hours).
 - From [University Square](https://osm.org/go/4VVe~QP1I?m=), local transport (auto-rickshaws/Mahendra) to PSTU (15 minutes).
 
-<h3>From Patuakhali to PSTU (≈15 km)</h3>
+<h3><u>From Patuakhali to PSTU (≈15 km)</u>:</h3>
 
 By Bus:
 
@@ -77,7 +77,7 @@ By Bus:
 
 By Auto-rickshaws:
 
-- Take a local transport to [Chouratha](https://osm.org/go/4VVa0v7Cr?m=&way=280432695) (Patuakhali).
+- Take a local transport to [Chourasta](https://osm.org/go/4VVa0v7Cr?m=&way=280432695) (Patuakhali).
 - Take an auto-rickshaw to PSTU.
 
 <h2 class='space-bottom1' id="campus_navigation">Campus Navigation:</h2>
@@ -116,6 +116,7 @@ Email: es.fardinhasan@gmail.com
 
 We look forward to welcoming you to Bangladesh’s vibrant coastal region! 🌏✨
 
+<br>
 
 <div id="map" style="height:420px; width:100%"></div>
 
