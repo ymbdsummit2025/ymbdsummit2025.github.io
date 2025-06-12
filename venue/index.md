@@ -133,6 +133,6 @@ We look forward to welcoming you to Bangladesh’s vibrant coastal region! 🌏�
       iconUrl: "{{ "/img/logo/ym_bd_summit_2025-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Patuakhali Science and Technology University</h3><p>Summit Venue. <a href='https://www.openstreetmap.org/?#map=14/22.46299/90.36624' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+    })}).bindPopup("<h3>Patuakhali Science and Technology University</h3><p>Summit Venue. <a href='https://www.openstreetmap.org/?mlat=22.46418&mlon=90.38246#map=14/22.46418/90.38246' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
   }, false);
 </script>
