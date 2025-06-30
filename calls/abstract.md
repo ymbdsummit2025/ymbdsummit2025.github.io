@@ -10,7 +10,7 @@ headings: "intro,presentation_format,topics,guidelines,timeline_deadlines,why_pr
 We are thrilled to announce that the Call for Abstracts for the YouthMappers Bangladesh Summit 2025 is officially open! This is your platform to share groundbreaking ideas, inspire peers, and shape the future of open mapping in Bangladesh and beyond. Whether you’re a mapper, developer, researcher, or community advocate, we invite you to contribute to this vibrant gathering of innovators.
 
 Submit your abstract [here](https://forms.gle/7GLab1pGtWc9DtNA8).<br>
-~~*Deadline: June 30,2025; 11:59 PM (GMT+6)*~~
+~~*Deadline: June 30,2025; 11:59 PM (GMT+6)*~~<br>
 *Extended Deadline: July 10, 2025; 11:59 PM (GMT+6)*
 
 <h2 id="presentation_format">Presentation Formats</h2>
