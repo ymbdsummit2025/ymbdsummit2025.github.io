@@ -73,4 +73,4 @@ Support the local open data movement, enhancing your organization's profile as a
 <h3 id="oppotunity-scholarship">Scholarship Program</h3>
 To ensure an accessible and diverse conference, we provide local scholarships to accomplished community members. As a sponsor, you'll be helping to bring talented people to the conference, who otherwise might not afford the trip. The more you sponsor, the more scholars we can invite to YouthMappers Bangladesh Summit 2025!
 
-For more information browse our <a href="https://github.com/ymbdsummit2025/ymbdsummit2025.github.io/blob/main/attachments/YMBD_Summit_2025_Sponsorship_Deck.pdf">Sponsorship Proposal</a>.
+For more information browse our <a href="https://drive.google.com/file/d/1AAC2L4pf3-T6dT4ZxGP08O0AkvBueVQr/view?usp=sharing">Sponsorship Proposal</a>.
