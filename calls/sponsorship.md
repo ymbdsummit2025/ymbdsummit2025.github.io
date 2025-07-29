@@ -5,8 +5,7 @@ titlecontent: ""
 headings: "intro,footprint,opportunity"
 ---
 
-<h2 id="intro">Call for Sponsorship</h2>
-
+<h2 id="intro">Introduction</h2>
 
 YouthMappers Bangladesh Community is an organized community ecosystem of YouthMappers chapters in Bangladesh. Capitalizing on web-based open geospatial technologies and a network of universities around the globe, YouthMappers is an initiative with a mission of cultivating a generation of young leaders to create resilient communities and define their world by mapping it.
 
