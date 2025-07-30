@@ -2,10 +2,10 @@
 layout: page-with-toc
 title: "Call for Participants – YouthMappers Bangladesh Summit 2025"
 # titlecontent: ""
-headings: "call,reg_fee,benefits"
+headings: "call,reg_fee,benefits,deadline,register"
 ---
 
-<h2 id="call">Call for Participants – YouthMappers Bangladesh Summit 2025</h2>
+<h2 id="call">Introduction</h2>
 
 <p><strong>YouthMappers Bangladesh</strong> is a vibrant network of university chapters and young leaders dedicated to open mapping, community development, and humanitarian action across Bangladesh. Join us for an inspiring national gathering of passionate mappers, students, and professionals from all corners of Bangladesh. Don’t miss your chance to be a part of the <strong>YouthMappers movement</strong>!</p>
 
@@ -18,7 +18,7 @@ headings: "call,reg_fee,benefits"
   <li><strong>General Students:</strong> BDT 1000</li>
   <li><strong>Professionals / Non‑YouthMappers:</strong> BDT 2000</li>
 </ul>
-<p><strong>Registration Link:</strong> <a href="https://forms.gle/ya6K1eXGgyNNe2xHA" target="_blank">https://forms.gle/ya6K1eXGgyNNe2xHA</a></p>
+<!-- <p><strong>Registration Link:</strong> <a href="https://forms.gle/ya6K1eXGgyNNe2xHA" target="_blank">https://forms.gle/ya6K1eXGgyNNe2xHA</a></p> -->
 
 <h2 id="benefits">Your Registration Includes</h2>
 <ul>
@@ -41,7 +41,7 @@ headings: "call,reg_fee,benefits"
 <p>A confirmation email will be sent to you within <strong>72 hours</strong>.</p>
 
 <p><strong>For any queries:</strong> <a href="mailto:summit.ymbd@gmail.com">summit.ymbd@gmail.com</a><br>
-Visit: <a href="https://ymbdsummit2025.github.io/" target="_blank">https://ymbdsummit2025.github.io/</a> for more information</p>
+Visit: <a href="https://ymbdsummit2025.github.io/" target="_blank">https://ymbdsummit2025.github.io</a> for more information</p>
 
 <p><strong>#YouthMappersBangladesh #YMBDSummit2025 #OpenMapping #Patuakhali #PSTUYouthMappers #YouthMappers</strong></p>
 
