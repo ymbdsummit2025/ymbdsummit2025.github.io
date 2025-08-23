@@ -11,7 +11,8 @@ We are thrilled to announce that the Call for Abstracts for the YouthMappers Ban
 
 Submit your abstract [here](https://forms.gle/7GLab1pGtWc9DtNA8).<br>
 ~~*Deadline: June 30,2025; 11:59 PM (GMT+6)*~~<br>
-*Extended Deadline: July 10, 2025; 11:59 PM (GMT+6)*
+~~*Extended Deadline: July 10, 2025; 11:59 PM (GMT+6)*~~<br>
+*Deadline: To be announced*
 
 <h2 id="presentation_format">Presentation Formats</h2>
 

@@ -9,7 +9,7 @@ headings: "call,reg_fee,benefits,deadline,register"
 
 <p><strong>YouthMappers Bangladesh</strong> is a vibrant network of university chapters and young leaders dedicated to open mapping, community development, and humanitarian action across Bangladesh. Join us for an inspiring national gathering of passionate mappers, students, and professionals from all corners of Bangladesh. Don’t miss your chance to be a part of the <strong>YouthMappers movement</strong>!</p>
 
-<strong>Event Date:</strong> Saturday, 23 August 2025<br>
+<strong>Event Date:</strong> Saturday, 08 October 2025<br>
 <strong>Venue:</strong> Patuakhali Science and Technology University (PSTU), Dumki, Patuakhali-8602
 
 <h2 id="reg_fee">Registration Fee</h2>
