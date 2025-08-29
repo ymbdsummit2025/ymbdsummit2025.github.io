@@ -31,7 +31,7 @@ For inquiries, contact us at **[pstu.ym@gmail.com](mailto:pstu.ym@gmail.com)** o
 
 <h2 id="glance">At a Glance</h2>
 
-* **Application Deadline:** 02 August 2025
+* **Application Deadline:** 07 September 2025
 * **Summit Venue:** Patuakhali Science and Technology University (PSTU)
 * **Summit Website:** [ymbdsummit2025.github.io](https://ymbdsummit2025.github.io/)
 
